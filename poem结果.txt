@@ -1,0 +1,133 @@
+quiz2
+会当凌绝顶，不见白云人。
+会当凌绝顶，不见一年春。
+会当凌绝顶，不见在山中。
+会当凌绝顶，清景在云林。
+会当凌绝顶，寂寂出尘埃。不见青山远，还从白日长。山中人去远，山上月明迟。
+会当凌绝顶，万仞耸层层。万壑通仙观，千巖出梵箫。仙坛仙掌外，云水洞庭间。云树连天汉，云峰出洞门。
+会当凌绝顶，高峻望层空。云山一片碧，潭水一泓澄。石壁临虚碧，仙峰压翠微。云间仙掌外，月上洞庭头。
+会当凌绝顶，高处望云端。白日无人赏，青松有鸟栖。
+
+quiz1
+接天莲叶无穷碧，一夜秋风吹落花。
+接天莲叶无穷碧，一片青青一片云。
+接天莲叶无穷碧，一片青山一片云。
+接天莲叶无穷碧，一片云根一片云。
+接天莲叶无穷碧，洞口山头有旧山。
+接天莲叶无穷碧，一片秋光万片红。
+接天莲叶无穷碧，上有苍苔半壁青。
+接天莲叶无穷碧，一片寒云一片秋。
+
+train_acc:
+0.19236250000000096
+0.23422465277777854
+0.2567996527777773
+0.27707638888888886
+0.30117986111111106
+0.33171388888888886
+0.3668829861111119
+0.4031659722222227
+
+val_acc:
+0.2193412698412699
+0.24521428571428577
+0.25726587301587306
+0.26369444444444445
+0.26551587301587304
+0.263920634920635
+0.262063492063492
+0.25861904761904764
+
+train_loss:
+5.624020807345708
+4.941127345164617
+4.624158886671066
+4.375943488279979
+4.119530411163966
+3.838339075247447
+3.5473141759634017
+3.268163660566012
+
+val_loss:
+5.157280649457659
+4.804408740997315
+4.656552927834647
+4.605309286571685
+4.633861019497826
+4.75527393704369
+4.936451189858573
+5.166200151897612
+
+
+0 th epoch  199 th train_ite  train_loss: 5.87042236328125 train_acc: 0.18333333333333332
+0 th epoch  399 th train_ite  train_loss: 5.830711841583252 train_acc: 0.18166666666666667
+0 th epoch  599 th train_ite  train_loss: 5.535910606384277 train_acc: 0.19
+0 th epoch  799 th train_ite  train_loss: 5.509191036224365 train_acc: 0.19708333333333333
+0 th epoch  999 th train_ite  train_loss: 5.31584358215332 train_acc: 0.20458333333333334
+0 th epoch  1199 th train_ite  train_loss: 5.167240142822266 train_acc: 0.22416666666666665
+0 th epoch  99 th val_ite  val_loss: 5.186722755432129 val_acc: 0.215
+接天莲叶无穷碧，一夜秋风吹落花。
+会当凌绝顶，不见白云人。
+1 th epoch  199 th train_ite  train_loss: 5.213029861450195 train_acc: 0.22125
+1 th epoch  399 th train_ite  train_loss: 5.01147985458374 train_acc: 0.22333333333333333
+1 th epoch  599 th train_ite  train_loss: 4.9162139892578125 train_acc: 0.23875
+1 th epoch  799 th train_ite  train_loss: 4.884003639221191 train_acc: 0.23583333333333334
+1 th epoch  999 th train_ite  train_loss: 4.933917045593262 train_acc: 0.23583333333333334
+1 th epoch  1199 th train_ite  train_loss: 4.8195600509643555 train_acc: 0.2425
+1 th epoch  99 th val_ite  val_loss: 4.904301166534424 val_acc: 0.24416666666666667
+接天莲叶无穷碧，一片青青一片云。
+会当凌绝顶，不见一年春。
+2 th epoch  199 th train_ite  train_loss: 4.636170387268066 train_acc: 0.25125
+2 th epoch  399 th train_ite  train_loss: 4.745654582977295 train_acc: 0.24458333333333335
+2 th epoch  599 th train_ite  train_loss: 4.623634338378906 train_acc: 0.25416666666666665
+2 th epoch  799 th train_ite  train_loss: 4.565988540649414 train_acc: 0.25916666666666666
+2 th epoch  999 th train_ite  train_loss: 4.521510601043701 train_acc: 0.25583333333333336
+2 th epoch  1199 th train_ite  train_loss: 4.617230415344238 train_acc: 0.26166666666666666
+2 th epoch  99 th val_ite  val_loss: 4.69428825378418 val_acc: 0.25958333333333333
+接天莲叶无穷碧，一片青山一片云。
+会当凌绝顶，不见在山中。
+3 th epoch  199 th train_ite  train_loss: 4.259920120239258 train_acc: 0.2841666666666667
+3 th epoch  399 th train_ite  train_loss: 4.232503414154053 train_acc: 0.2891666666666667
+3 th epoch  599 th train_ite  train_loss: 4.345582008361816 train_acc: 0.2808333333333333
+3 th epoch  799 th train_ite  train_loss: 4.455441474914551 train_acc: 0.26666666666666666
+3 th epoch  999 th train_ite  train_loss: 4.325080871582031 train_acc: 0.28208333333333335
+3 th epoch  1199 th train_ite  train_loss: 4.359973430633545 train_acc: 0.28
+3 th epoch  99 th val_ite  val_loss: 4.541863918304443 val_acc: 0.27166666666666667
+接天莲叶无穷碧，一片云根一片云。
+会当凌绝顶，清景在云林。
+4 th epoch  199 th train_ite  train_loss: 4.210103988647461 train_acc: 0.29833333333333334
+4 th epoch  399 th train_ite  train_loss: 4.133962154388428 train_acc: 0.29041666666666666
+4 th epoch  599 th train_ite  train_loss: 4.235890865325928 train_acc: 0.2920833333333333
+4 th epoch  799 th train_ite  train_loss: 4.100864887237549 train_acc: 0.30875
+4 th epoch  999 th train_ite  train_loss: 4.107056140899658 train_acc: 0.30541666666666667
+4 th epoch  1199 th train_ite  train_loss: 4.067343711853027 train_acc: 0.3179166666666667
+4 th epoch  99 th val_ite  val_loss: 4.658190727233887 val_acc: 0.2554166666666667
+接天莲叶无穷碧，洞口山头有旧山。
+会当凌绝顶，寂寂出尘埃。不见青山远，还从白日长。山中人去远，山上月明迟。
+5 th epoch  199 th train_ite  train_loss: 3.8131277561187744 train_acc: 0.34125
+5 th epoch  399 th train_ite  train_loss: 3.774982213973999 train_acc: 0.3358333333333333
+5 th epoch  599 th train_ite  train_loss: 3.850876808166504 train_acc: 0.3333333333333333
+5 th epoch  799 th train_ite  train_loss: 3.9993700981140137 train_acc: 0.31
+5 th epoch  999 th train_ite  train_loss: 3.875641345977783 train_acc: 0.3308333333333333
+5 th epoch  1199 th train_ite  train_loss: 3.936091661453247 train_acc: 0.3275
+5 th epoch  99 th val_ite  val_loss: 4.884440898895264 val_acc: 0.26
+接天莲叶无穷碧，一片秋光万片红。
+会当凌绝顶，万仞耸层层。万壑通仙观，千巖出梵箫。仙坛仙掌外，云水洞庭间。云树连天汉，云峰出洞门。
+6 th epoch  199 th train_ite  train_loss: 3.3222289085388184 train_acc: 0.39791666666666664
+6 th epoch  399 th train_ite  train_loss: 3.54268479347229 train_acc: 0.36583333333333334
+6 th epoch  599 th train_ite  train_loss: 3.616307258605957 train_acc: 0.36083333333333334
+6 th epoch  799 th train_ite  train_loss: 3.5171566009521484 train_acc: 0.3804166666666667
+6 th epoch  999 th train_ite  train_loss: 3.5711071491241455 train_acc: 0.36583333333333334
+6 th epoch  1199 th train_ite  train_loss: 3.5359883308410645 train_acc: 0.36833333333333335
+6 th epoch  99 th val_ite  val_loss: 4.7361555099487305 val_acc: 0.28583333333333333
+接天莲叶无穷碧，上有苍苔半壁青。
+会当凌绝顶，高峻望层空。云山一片碧，潭水一泓澄。石壁临虚碧，仙峰压翠微。云间仙掌外，月上洞庭头。
+7 th epoch  199 th train_ite  train_loss: 3.03163480758667 train_acc: 0.43125
+7 th epoch  399 th train_ite  train_loss: 3.1065380573272705 train_acc: 0.42625
+7 th epoch  599 th train_ite  train_loss: 3.3268520832061768 train_acc: 0.39625
+7 th epoch  799 th train_ite  train_loss: 3.421588659286499 train_acc: 0.3879166666666667
+7 th epoch  999 th train_ite  train_loss: 3.4898998737335205 train_acc: 0.37166666666666665
+7 th epoch  1199 th train_ite  train_loss: 3.3857507705688477 train_acc: 0.38208333333333333
+7 th epoch  99 th val_ite  val_loss: 5.200455188751221 val_acc: 0.2608333333333333
+接天莲叶无穷碧，一片寒云一片秋。
+会当凌绝顶，高处望云端。白日无人赏，青松有鸟栖。
